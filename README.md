@@ -1,6 +1,8 @@
 # UnityCodingDemo
 A small demonstration of my ability to use Unity to develop games.
 
+![https://github.com/RichardMarks/UnityCodingDemo/raw/wiki/wiki/ucd.png](https://github.com/RichardMarks/UnityCodingDemo/raw/wiki/wiki/ucd.png)
+
 ## What is this?
 
 A small playable game demo (you can get a score from killing enemies, and you restart when you die) built in roughly 11 hours.
