@@ -29,7 +29,7 @@ The Unity Player Settings still references the Level scene, and needs to be upda
 + Uses Font from https://www.kenney.nl/assets/kenney-fonts
 + Music and SFX created by Richard Marks
 + All C# Scripts created by Richard Marks
-+ Custom Additive blending sprite shader is a modification of the built-in sprites-default shader
++ Custom Additive blending sprite shader created by Richard Marks (a modification of the built-in sprites-default shader)
 
 ## Thanks
 
